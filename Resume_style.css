@@ -1,0 +1,62 @@
+﻿body
+
+.box {
+    border-radius:20px;
+    width:800px;
+    height:auto;
+    background-color:#ccc;
+    padding-right:200px;
+    padding-left:200px;
+    float:right;
+    margin-right:200px;
+    margin-left:200px;
+    
+    
+}
+.header{ 
+    text-align:center;
+    font-family:Arial;
+    font-size:15px;
+}
+
+.all{
+    
+
+    
+}
+.education {
+    border-style:groove;
+    border-radius:5px;
+    border-width:2px;
+    padding:50px;
+    background-color: white;
+    padding-top:0px;
+    padding-bottom:2px;
+    margin-left:50px;
+    margin-right:50px;
+    
+   }
+.WorkExprience{
+    border-style:groove;
+    border-radius:5px;
+    border-width:2px;
+    padding:50px;
+    background-color: white;
+    padding-top:0px;
+    padding-bottom:10px;
+    margin-top:0px;
+    margin-left:50px;
+    margin-right:50px;
+}
+
+.References{
+    border-style:groove;
+    border-radius:5px;
+    border-width:2px;
+    padding:50px;
+    background-color:white;
+    margin-left:50px;
+    margin-right:50px;
+    
+
+}
